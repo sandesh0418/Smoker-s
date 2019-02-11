@@ -64,7 +64,7 @@ font-size: 2rem;
 }
 
 .top {
-	margin-top: 100px;
+	margin-top: 60px;
 }
 
 .row{
@@ -129,6 +129,7 @@ a{
     border-top: 20px solid #482159;
     position: relative;
     padding: 0;
+	width: 75%;
     
 }
 
