@@ -2,7 +2,7 @@
 .navbar{
   margin-bottom: 5px solid black;
   font-family: 'Merienda', cursive;
-  font-size: 2rem;
+  font-size: 1.5rem;
   
  
 }
@@ -27,7 +27,7 @@ body{
 }
 
 #carouselExampleIndicators{
-  padding-bottom: 50px;
+  padding-bottom: 100px;
   padding-top: 50px;
 }
 
@@ -73,7 +73,7 @@ padding: 100px 0;
 
 }
 #navbar{
-  min-height: 4rem;
+  min-height: 3rem;
 background-color: #f8f9fa;
 box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
 
@@ -84,7 +84,7 @@ box-shadow: 0 0.5rem 1rem rgba(0,0,0,.05), inset 0 -1px 0 rgba(0,0,0,.1);
 a{
   color: green;
 
-  
+  font-weight: bolder;
 }
 
 
@@ -115,3 +115,32 @@ a{
 		font-size: 1rem;
 	}
 }
+
+
+#maps{
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Black-World-Map-HD-Wallpaper-1.jpg");
+}
+
+#locateUS{
+	background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Black-World-Map-HD-Wallpaper-1.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	padding: 100px 0;
+	color: white;
+	font-size:1.2rem;
+	margin-bottom: 100px;
+}
+
+.fa-directions{
+	color: white;
+	font-size: 50px;
+}
+
+#dir{
+font-size:40px;}
+
+.fa-facebook{
+	color: #4267b2;
+	font-size: 50px;
+	padding: 10px;
+	
