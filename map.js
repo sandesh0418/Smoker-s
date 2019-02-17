@@ -45,7 +45,7 @@ function addInfoBubble(map) {
 
   addMarkerToGroup(group, {lat:32.480830, lng:-91.861060},
     "<div>Start's Travel Plaza" +
-      '</div><div >318-728-4956<br><a href=\'https://www.google.com/maps/place/START'S+TRAVEL+PLAZA/@32.480776,%20%20-91.8635121,
+      '</div><div >318-728-4956<br><a href=\'https://www.google.com/maps/place/START\'\'S+TRAVEL+PLAZA/@32.480776,%20%20-91.8635121,
                    17z/data=!3m1!4b1!4m5!3m4!1s0x862e57b29f3330b5:0x9e69e1a9c182b6d!8m2!3d32.4807715!4d-91.8613234\' >Visit Us </a></div>');
 
 }
