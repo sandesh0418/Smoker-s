@@ -35,15 +35,18 @@ function addInfoBubble(map) {
 
   addMarkerToGroup(group, {lat: 32.503760 , lng:-92.128475},
     "<div>Smokers's Express #2"+
-    '</div><div >318-322-3037<br><a href=\'http://www.mcfc.co.uk\' >Visit Us</a></div>');
+    '</div><div >318-322-3037<br><a href=\'https://www.google.com/maps/place/300+Bridge+St,+West+Monroe,+LA+71291/@32.5039886,
+                   -92.1311216,17z/data=!3m1!4b1!4m5!3m4!1s0x862e4813bf881105:0xe1741d9cd1d92080!8m2!3d32.5039841!4d-92.1289329\' >Visit Us</a></div>');
 
   addMarkerToGroup(group, {lat:32.488610, lng:-92.155700},
     "<div>Smokers's Express #5" +
-    '</div><div >318-361-9331<br><a href=\'http://www.liverpoolfc.tv\' >Visit Us</a></div>');
+    '</div><div >318-361-9331<br><a href=\'https://www.google.com/maps/place/1500+Bailey+St,+West+Monroe,+LA+71292/@32.4886435,%20%20-92.1578227,
+                   17z/data=!3m1!4b1!4m5!3m4!1s0x862e37c4c55120df:0x9578285f63d6e0e7!8m2!3d32.488639!4d-92.155634\' >Visit Us</a></div>');
 
   addMarkerToGroup(group, {lat:32.480830, lng:-91.861060},
     "<div>Start's Travel Plaza" +
-      '</div><div >318-728-4956<br><a href=\'http://www.liverpoolfc.tv\' >Visit Us </a></div>');
+      '</div><div >318-728-4956<br><a href=\'https://www.google.com/maps/place/START'S+TRAVEL+PLAZA/@32.480776,%20%20-91.8635121,
+                   17z/data=!3m1!4b1!4m5!3m4!1s0x862e57b29f3330b5:0x9e69e1a9c182b6d!8m2!3d32.4807715!4d-91.8613234\' >Visit Us </a></div>');
 
 }
 /**
